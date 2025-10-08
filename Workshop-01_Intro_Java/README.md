@@ -14,7 +14,7 @@ La finalul acestui workshop vei:
 2. [Tipuri de date în Java pentru FTC](./02_DataTypes/02_DataTypes.pdf) 
 3. [Funcții și metode](./03_Functions/03_Functions.pdf)
 4. [Clase și moștenire](./04_Clases/04_Classes.pdf)
-5. [Tipuri de OpMode-uri](./05_OpModes/05_OpModes.pdf)
+5. [Tipuri de OpMode-uri](./06_OpModes/06_OpModes.pdf)
    
 ---
 
