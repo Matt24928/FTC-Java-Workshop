@@ -15,7 +15,7 @@ La finalul acestui workshop vei:
 3. Funcții și metode 
 4. Clase și moștenire 
 5. Tipuri de OpMode-uri
-6. 
+   
 ---
 
 ## 🧩 Exemple incluse
