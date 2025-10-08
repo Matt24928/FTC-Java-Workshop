@@ -13,7 +13,7 @@ La finalul acestui workshop vei:
 1. [Introducere în hardware-ul FTC](./01_Hardware/01_Hardware.pdf)
 2. [Tipuri de date în Java pentru FTC](./01_DataTypes/01_DataTypes.pdf) 
 3. [Funcții și metode](./03_Functions/03_Functions.pdf)
-4. Clase și moștenire 
+4. [Clase și moștenire](./04_Clases/04_Classes.pdf)
 5. Tipuri de OpMode-uri
    
 ---
