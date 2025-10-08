@@ -10,7 +10,7 @@ La finalul acestui workshop vei:
 ---
 
 ## 🧭 Structura workshopului
-1. Introducere în hardware-ul FTC 
+1. [Introducere în hardware-ul FTC](./01_Hardware/01_Hardware.pdf)
 2. Tipuri de date în Java pentru FTC 
 3. Funcții și metode 
 4. Clase și moștenire 
