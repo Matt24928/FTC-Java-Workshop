@@ -1,0 +1,31 @@
+package org.firstinspires.ftc.teamcode.exemple;
+
+// O clasă care conține doar funcții (metode) simple
+public class FunctiiExemplu {
+
+    // Funcție fără parametri și fără return
+    // Execută o acțiune, dar nu întoarce nimic
+    public void salut() {
+        // aici ar putea fi cod care, de exemplu, pornește un motor sau schimbă o variabilă
+    }
+
+    // Funcție care primește două numere și returnează suma lor
+    public int aduna(int a, int b) {
+        int suma = a + b;
+        return suma;  // returnează rezultatul către apelant
+    }
+
+    // Funcție care primește un număr și returnează pătratul acestuia
+    public double patrat(double numar) {
+        return numar * numar;
+    }
+
+    // Funcție care compară două numere și returnează cel mai mare
+    public int maxim(int a, int b) {
+        if (a > b) {
+            return a;
+        } else {
+            return b;
+        }
+    }
+}
