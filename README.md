@@ -12,7 +12,3 @@ Acest repository conține toate materialele pentru seria de workshopuri de progr
 ## 🎯 Scop general
 Scopul acestor workshopuri este să ofere o bază solidă în programarea Java aplicată în FTC, pornind de la concepte fundamentale și ajungând la control avansat al robotului.
 
-## 🧰 Cerințe
-- Android Studio (instalat)
-- FTC SDK
-- Control Hub sau Robot Simulator (opțional)
