@@ -1,0 +1,40 @@
+// Pachetul în care se află fișierul nostru Java.
+// "package" ajută la organizarea codului pe foldere (ca în FTC: teamcode, subsystems, etc.)
+package org.firstinspires.ftc.teamcode.exemple;  
+
+// Declarația clasei principale "Calculator".
+// O clasă este un "șablon" (blueprint) care definește cum arată și ce poate face un obiect.
+public class Calculator {
+
+    // Metoda "Suma" - primește două numere (a și b) și returnează suma lor.
+    public double Suma(double a, double b) {
+        double suma = a + b;   // adunăm cele două valori
+        return suma;           // returnăm rezultatul
+    }
+
+    // Metoda "Diferenta" - calculează diferența absolută dintre a și b.
+    // Dacă a > b, returnează a - b; altfel returnează b - a.
+    public double Diferenta(double a, double b) {
+        if (a > b) {
+            return a - b;
+        } else {
+            return b - a;
+        }
+    }
+}
+
+// O a doua clasă numită "Test".
+// Aici vom crea un obiect din clasa Calculator și îl vom folosi.
+class Test {
+
+    // Creăm un obiect nou de tip Calculator.
+    // Cu "new Calculator()" construim efectiv o instanță a clasei.
+    Calculator calculator = new Calculator();
+
+    // Apelăm metoda Diferenta() definită în clasa Calculator
+    // și salvăm rezultatul în variabila rf.
+    double rf = calculator.Diferenta(2, 3);
+
+    // Apelăm metoda Suma() și salvăm rezultatul în variabila rf2.
+    double rf2 = calculator.Suma(2, 3);
+}
